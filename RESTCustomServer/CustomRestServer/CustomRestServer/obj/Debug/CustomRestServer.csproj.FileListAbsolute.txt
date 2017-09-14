@@ -1,0 +1,164 @@
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\obj\Debug\CustomRestServer.csproj.CoreCompileInputs.cache
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\ApplicationInsights.config
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\log4net.config
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\CustomRestServer.dll.config
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\CustomRestServer.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\CustomRestServer.pdb
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Antlr3.Runtime.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\log4net.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.Web.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Common.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Custom.Api.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Custom.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Newtonsoft.Json.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Owin.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Net.Http.Formatting.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Helpers.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.Owin.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.Tracing.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.WebHost.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Mvc.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Optimization.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Razor.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\WebGrease.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Antlr3.Runtime.pdb
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\log4net.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.Web.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Common.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Custom.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Custom.Api.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Newtonsoft.Json.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Threading.Tasks.Dataflow.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.Owin.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.Tracing.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Net.Http.Formatting.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Helpers.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.WebHost.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Mvc.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Optimization.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Razor.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\obj\Debug\CustomRestServer.dll
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\obj\Debug\CustomRestServer.pdb
+C:\Users\a.dekkerslos\source\repos\Demo Applicaties Onderzoek\RESTCustomServer\CustomRestServer\CustomRestServer\obj\Debug\CustomRestServer.csprojResolveAssemblyReference.cache
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\ApplicationInsights.config
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\log4net.config
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\CustomRestServer.dll.config
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\CustomRestServer.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\CustomRestServer.pdb
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Antlr3.Runtime.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\log4net.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.Web.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Common.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Custom.Api.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Custom.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Newtonsoft.Json.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Owin.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Net.Http.Formatting.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Helpers.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.Owin.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.Tracing.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.WebHost.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Mvc.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Optimization.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Razor.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\WebGrease.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Antlr3.Runtime.pdb
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\log4net.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.Web.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Common.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Custom.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.AspNet.WebHooks.Custom.Api.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\Newtonsoft.Json.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Threading.Tasks.Dataflow.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.Owin.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.Tracing.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Net.Http.Formatting.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Helpers.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Http.WebHost.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Mvc.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Optimization.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.Razor.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\obj\Debug\CustomRestServer.csprojResolveAssemblyReference.cache
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\obj\Debug\CustomRestServer.csproj.CoreCompileInputs.cache
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\obj\Debug\CustomRestServer.dll
+C:\Users\a.dekkerslos\source\repos\WebhooksHelp\RESTCustomServer\CustomRestServer\CustomRestServer\obj\Debug\CustomRestServer.pdb
